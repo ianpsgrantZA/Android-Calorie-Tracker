@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calculator" translatable="false">CalculatorActivity</string>
+    <string name="Source">Source</string>
+    <string name="in_amount">Amount (kJ)</string>
+    <string name="Calc_Title">Entry Adder</string>
+    <string name="Main_TotalAvg">Average:</string>
+    <string name="Calc_Food1">Meals</string>
+    <string name="Calc_Food2">Snacks</string>
+    <string name="Calc_Exercise1">Cardio</string>
+    <string name="Calc_Exercise2">Weightlifting</string>
+    <string name="Calc_TotalIn">Total input:</string>
+    <string name="Calc_TotalOut">Total output:</string>
+    <string name="Calc_Net">Net intake:</string>
+    <string name="Calc_IntakeVal">0</string>
+    <string name="Calc_OutputVal">0</string>
+    <string name="Calc_NetVal">0</string>
+    <string name="Calc_Food1Val" translatable="false">0</string>
+    <string name="Calc_Food2Val">0</string>
+    <string name="Calc_Exercise1Val">0</string>
+    <string name="Calc_Exercise2Val" translatable="false">0</string>
+    <string name="title_activity_entry" translatable="false">EntryActivity</string>
+    <string name="Entry_Title">Entry Data</string>
+    <string name="Calc_Add">Add Entry</string>
+</resources>

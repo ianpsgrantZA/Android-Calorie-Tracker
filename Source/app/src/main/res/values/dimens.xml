@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="in_width">150</dimen>
+    <dimen name="in_width2">80</dimen>
+</resources>

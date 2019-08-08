@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Calc_Add">Ajouter une entrée</string>
+    <string name="Calc_Exercise2">Musculation</string>
+    <string name="Calc_Food1">Repas</string>
+    <string name="Calc_Food2">"Des collations "</string>
+    <string name="Calc_Exercise1">Cardio</string>
+    <string name="Calc_Net">Apport net:</string>
+    <string name="Calc_Title">Additionneur</string>
+    <string name="Calc_TotalIn">Entrée totale:</string>
+    <string name="Calc_TotalOut">Sortie totale:</string>
+    <string name="Entry_Title">Données d\'entrée</string>
+    <string name="Main_TotalAvg">Moyenne:</string>
+    <string name="Source">Source</string>
+    <string name="action_settings">Réglages</string>
+    <string name="in_amount">Montant (kJ)</string>
+</resources>
